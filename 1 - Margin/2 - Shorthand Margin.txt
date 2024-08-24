@@ -1,0 +1,2 @@
+/* Sets margin for all sides using shorthand */
+margin: 10px;

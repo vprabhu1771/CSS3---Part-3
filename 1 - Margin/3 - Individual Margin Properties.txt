@@ -1,0 +1,5 @@
+/* Sets margins individually for each side */
+margin-top: 10px;
+margin-right: 20px;
+margin-bottom: 15px;
+margin-left: 5px;

@@ -1,0 +1,8 @@
+/* Margins are not inherited */
+parent {
+  margin: 10px;
+}
+
+child {
+  /* Child does not inherit the margin from the parent */
+}

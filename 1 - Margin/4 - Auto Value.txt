@@ -1,0 +1,2 @@
+/* Centering block-level element horizontally */
+margin: auto;

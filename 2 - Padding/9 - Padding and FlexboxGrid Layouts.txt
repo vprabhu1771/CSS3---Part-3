@@ -1,0 +1,6 @@
+Interaction of padding with Flexbox/Grid layouts.
+
+.container {
+  display: flex;
+  padding: 10px;
+}

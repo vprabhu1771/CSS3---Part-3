@@ -1,0 +1,6 @@
+Using relative units for responsive designs.
+
+.box {
+  width: 50%;
+  padding: 2em;
+}

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    ...
+    ...
+
+    <title>Document</title>
+
+    <link rel="stylesheet" href="main.css">
+
+</head>
+<body>
+
+    <div class="row">
+
+        <div class="column">
+            <h2>Column 1</h2>
+            <p>Content for Column 1</p>
+        </div>
+
+        <div class="column">
+            <h2>Column 2</h2>
+            <p>Content for Column 2</p>
+        </div>
+
+        <div class="column">
+            <h2>Column 3</h2>
+            <p>Content for Column 3</p>
+        </div>
+
+        <div class="column">
+            <h2>Column 4</h2>
+            <p>Content for Column 4</p>
+        </div>
+
+    </div>
+
+    <div class="row">
+        
+        <div class="column">
+            <h2>Column 5</h2>
+            <p>Content for Column 5</p>
+        </div>
+
+        <div class="column">
+            <h2>Column 6</h2>
+            <p>Content for Column 6</p>
+        </div>
+
+        <div class="column">
+            <h2>Column 7</h2>
+            <p>Content for Column 7</p>
+        </div>
+
+        <div class="column">
+            <h2>Column 8</h2>
+            <p>Content for Column 8</p>
+        </div>
+        
+    </div>
+
+</body>
+
+</html>

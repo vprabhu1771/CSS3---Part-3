@@ -1,0 +1,7 @@
+Total width/height calculation includes padding.
+
+.box {
+  width: 200px;
+  height: 100px;
+  padding: 20px;
+}

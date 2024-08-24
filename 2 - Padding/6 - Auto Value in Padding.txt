@@ -1,0 +1,6 @@
+Using the auto value for automatic calculation.
+
+.box {
+  width: 50%;
+  padding: 10px auto;
+}

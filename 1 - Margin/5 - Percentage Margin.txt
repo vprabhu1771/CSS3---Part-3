@@ -1,0 +1,2 @@
+/* Sets margin as a percentage of the containing element's width */
+margin: 5%;

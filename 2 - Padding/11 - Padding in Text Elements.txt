@@ -1,0 +1,5 @@
+Using padding for text elements.
+
+p {
+    padding: 10px;
+  }

@@ -1,0 +1,6 @@
+Percentage padding is relative to the width of the containing block.
+
+.box {
+  width: 50%;
+  padding: 5%;
+}

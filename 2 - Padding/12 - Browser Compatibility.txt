@@ -1,0 +1,2 @@
+- Testing for cross-browser compatibility.
+- Example: Regular testing across multiple browsers to ensure consistent rendering.

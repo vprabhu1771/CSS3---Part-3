@@ -1,0 +1,5 @@
+Using negative padding in specific scenarios.
+
+.box {
+  padding: -10px;
+}

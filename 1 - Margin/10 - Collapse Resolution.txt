@@ -1,0 +1,5 @@
+/* Margin collapse resolution */
+/* When adjacent margins collapse, the larger one is used */
+element1, element2 {
+  margin-bottom: 20px;
+}

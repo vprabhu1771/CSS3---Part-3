@@ -1,0 +1,8 @@
+/* Example of margin collapse */
+div {
+  margin-bottom: 20px;
+}
+
+p {
+  margin-top: 15px; /* This margin collapses with the div's margin */
+}

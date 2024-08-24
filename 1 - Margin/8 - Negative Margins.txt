@@ -1,0 +1,8 @@
+/* Overlapping elements using negative margins */
+element1 {
+  margin-right: -10px;
+}
+
+element2 {
+  margin-left: -10px;
+}
